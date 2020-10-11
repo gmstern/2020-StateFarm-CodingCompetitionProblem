@@ -1,9 +1,14 @@
-Your team (name of each individual participating):
-How many JUnits were you able to get to pass? 
+Your team (name of each individual participating): Giovanna Stern
+How many JUnits were you able to get to pass? Three of my tests passed. I completed writing methods for 1, 2, 3, 6, 8 and partially 5.
+Please note: None of my tests related to customers pass because I could not determine how to read in the dependent array. Instead, I adjusted some customer fields to constants for purposes of working on the program. 
+I also was not able to complete any methods dealing with maps because I ran out of time to learn what they are.
 
 Document and describe any enhancements included to help the judges properly grade your submission.
-	Step 1:
+	Step 1: 
 	Step 2: 
 	
 	
 Feedback for the coding competition?  Things you would like to see in future events?
+Although I didn't get all tests to pass, I thought this was a great experience. I enjoyed that the problem was centered around a real-world scenario so that is something I would continue to do.
+I am currently a Freshman/Sophomore level in my studies so it gave me better insight on how I would apply what I am currently learning. 
+I would also highly recommend future competitors to work in a team.
